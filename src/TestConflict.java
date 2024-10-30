@@ -1,7 +1,7 @@
 public class TestConflict {
 
     public void testA (){
-        //Todo: Implement testA
+        System.out.println("Implementation by Developer A");
     }
 
     public void testB(){
